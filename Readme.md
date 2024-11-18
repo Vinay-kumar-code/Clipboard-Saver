@@ -7,5 +7,6 @@ I wanna improve this code such that the following features are gonna added in fu
 -System tray functionality.
 -Single executable file without needing any terminal window.
 -Ability to copy images if selected in the application settings and save the image in a folder.
--Ability to copy the filename and its path and stores it in a separate txt file when user select this feature in the application settings.
+-Ability to copy the filename and its path and stores it in a separate txt file when user select this feature in the 
+ application settings.
 -Automatically Starting when the system starts.
